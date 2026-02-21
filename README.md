@@ -132,3 +132,11 @@ Zhuldyz Alipova
 - Платформаның толық интерфейсі
 
 Бұл видео жүйенің нақты жұмыс істейтінін дәлелдейді.
+## 🌍 Live Demo
+
+🚀 Qazaq-Space-AI онлайн жұмыс істейтін нұсқасы:
+
+👉 https://aiuly-dala.streamlit.app
+
+This live demo showcases the AI-powered Satellite Decision Support System in action.  
+Users can simulate telemetry data and observe AI-generated risk analysis and recommendations.
